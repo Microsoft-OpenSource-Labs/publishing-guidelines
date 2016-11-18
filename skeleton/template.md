@@ -44,3 +44,10 @@ Any additional resource, links, references should be added here.
 ### Useful Links
 
 Any useful link for the user.
+
+
+## License
+
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Licensed under the [MIT](LICENSE) License.
