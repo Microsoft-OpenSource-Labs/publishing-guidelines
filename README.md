@@ -7,6 +7,7 @@ Each laboratory needs to include the following files as a minimum to be deployed
 
 1. A *LICENSE* file with an MIT License template.
 2. A *README.md* Markdown file with the description of the laboratory. You can find a description of the Markdown syntax [here](https://guides.github.com/features/mastering-markdown/).
+    * You can use [Pandoc](http://pandoc.org/index.html) to convert your *docx* file to Markdown.
 3. A *Word* file with the description of the laboratory.
 4. A *PDF* file with the description of the laboratory. 
 5. Any other supporting documents, file, source code, etc.
