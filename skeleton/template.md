@@ -1,6 +1,11 @@
 # Laboratory Title
 
 
+## Table of Contents
+
+The Table of Contents for the Laboratory document.
+
+
 ## Overview and Pre-Requisites
 
 An Overview of the scope of the lab, any pre-requisites and topics covered on the lab should be clearly explained here.

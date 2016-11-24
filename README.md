@@ -35,6 +35,9 @@ In order to maintain a standardized repository of laboratories, there is some co
 
 <dl>
 
+  <dt>Table of Contents</dt>
+  <dd>The Table of Contents for the Laboratory document.</dd>
+
   <dt>Overview and Pre-Requisites</dt>
   <dd>An Overview of the scope of the lab, any pre-requisites and topics covered on the lab should be clearly explained here.</dd>
 
