@@ -1,6 +1,22 @@
 # Microsoft Open Source Labs Publishing Guidelines
 
 
+## Table of Contents
+
+   * [Microsoft Open Source Labs Publishing Guidelines](#microsoft-open-source-labs-publishing-guidelines)
+      * [Minimum Requirements](#minimum-requirements)
+      * [Content](#content)
+         * [TOC script](#toc-script)
+      * [How to create a lab repository?](#how-to-create-a-lab-repository)
+      * [Git repository best practices](#git-repository-best-practices)
+         * [Development Branch](#development-branch)
+         * [Staging Branch](#staging-branch)
+         * [Master Branch](#master-branch)
+         * [Tags / Deployments](#tags--deployments)
+            * [Deploy script](#deploy-script)
+      * [Contributing](#contributing)
+
+
 ## Minimum Requirements
 
 Each laboratory needs to include the following files as a minimum to be deployed:
@@ -39,6 +55,15 @@ In order to maintain a standardized repository of laboratories, there is some co
 
 </dl>
 
+#### TOC script
+
+The publishing guideline contains a script that will help you to create a **Table of Contents** from your MarkDown file.
+
+Please copy `scripts/gh-md-toc` script to the root of your lab repository, the script can be executed using the command:
+
+     # ./gh-md-toc README.md
+
+This will output to screen a auto-generated table of contents that can be copy and pasted into your README.md file.
 
 ## How to create a lab repository?
 
